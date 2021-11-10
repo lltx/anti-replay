@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  online.inote.naruto.anti.replay.spring.configure.NarutoAntiReplayAutoConfiguration
